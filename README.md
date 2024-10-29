@@ -17,12 +17,6 @@ Welcome to the **Object-Oriented Drawing Application**! This application allows 
 3. **Create Your Artwork**:
     - Repeat the above steps to continue drawing lines and complete your artwork.
 
-## 📂 Project Structure
-
-- **src/**: Contains the source code files.
-- **assets/**: Contains any image or media assets used in the project.
-- **docs/**: Contains documentation and additional resources.
-
 ## 🔍 Explore the Code
 
 Feel free to explore the code to understand how object-oriented programming principles are applied in building this interactive drawing application. Contributions and improvements are welcome!
