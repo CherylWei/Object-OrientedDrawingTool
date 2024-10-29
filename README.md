@@ -1,9 +1,8 @@
-```markdown
 # Object-Oriented Drawing Application
 
 Welcome to the **Object-Oriented Drawing Application**! This application allows users to create unique artworks by drawing lines on a canvas, leveraging object-oriented principles to ensure efficient management and organization of the drawing logic.
 
-##✨Features
+## ✨Features
 
 - **Intuitive Interface**: A simple and user-friendly interface for drawing lines.
 - **Object-Oriented Design**: Clear and maintainable code structure using object-oriented programming.
