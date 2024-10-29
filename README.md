@@ -1,7 +1,8 @@
 ```markdown
 # Object-Oriented Drawing Application
 
-This project is an object-oriented drawing application that allows users to create their own artwork by drawing lines. By clicking the mouse at the desired start and end points on a pop-up window, users can freely create lines to develop unique drawings.
+This project is an object-oriented drawing application that allows users to create their own artwork by drawing lines.
+By clicking the mouse at the desired start and end points on a pop-up window, users can freely create lines to develop unique drawings.
 
 ## Features
 
