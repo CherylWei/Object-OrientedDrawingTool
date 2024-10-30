@@ -1,6 +1,6 @@
-# Object-Oriented Drawing Application
+# Object-Oriented Drawing Tool
 
-Welcome to the **Object-Oriented Drawing Application**! This application allows users to create unique artworks by drawing lines on a canvas, leveraging object-oriented principles to ensure efficient management and organization of the drawing logic.
+Welcome to the **Object-Oriented Drawing Tool**! This application allows users to create unique artworks by drawing lines on a canvas, leveraging object-oriented principles to ensure efficient management and organization of the drawing logic.
 
 ## ✨Features
 
