@@ -11,7 +11,6 @@ from campy.graphics.gwindow import GWindow
 def main():    #background
     """
     Title: 晚霞獨釣 Fishing at sunset
-    最近的日子很忙碌，自己處於比較有壓力的狀態，於是幻想自己如畫中釣者，慢下生活的腳步，欣賞夕陽！
     I've been quite busy recently,
     leaving me under considerable stress.
     As a way to cope, I envision myself as the angler in a painting,
